@@ -1,4 +1,4 @@
-# StudyBuddy GDP2 01-02 
+# StudyBuddy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0a3d2456a7994058a5402499c3371d4c)](https://www.codacy.com/gh/GUNDAANUTEJ/StudyBuddy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GUNDAANUTEJ/StudyBuddy&amp;utm_campaign=Badge_Grade)
 
