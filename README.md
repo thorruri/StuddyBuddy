@@ -1,15 +1,3 @@
-# StudyBuddy
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0a3d2456a7994058a5402499c3371d4c)](https://www.codacy.com/gh/GUNDAANUTEJ/StudyBuddy/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GUNDAANUTEJ/StudyBuddy&amp;utm_campaign=Badge_Grade)
-
-### [![CodeQL](https://github.com/GUNDAANUTEJ/StudyBuddy/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/GUNDAANUTEJ/StudyBuddy/actions/workflows/codeql-analysis.yml)
-### [CodeQL link](https://github.com/GUNDAANUTEJ/StudyBuddy/actions/workflows/codeql-analysis.yml)
-
-### [Snyk Link](https://app.snyk.io/org/gundaanutej)
-![Screenshot (204)](https://user-images.githubusercontent.com/77635770/161365918-cc359ac3-0994-4b6d-99cf-e966ae7e6e18.png)
-
-### Back-end github code, in this repository.
-
 ## Project: Study Buddy
 
 > We intend to build a tool that would be a solo place where students would be able to track the upcoming assignments, class tasks in an easy way . This tool allows students to even check for updates in the calendar about upcoming to-do lists, memo functionality. This tool will also provide the flexibility for the students to customize the look of the application based on their own choice of themes.
@@ -26,19 +14,9 @@ Stack we are using for application building.
 * Backend app host - Heroku
 * Data host + type - Atlas MongoDB
 * Front-end design - React.js.
-* Static analysis tools - Snyk.
 
-## [Documentation site link](https://github.com/GUNDAANUTEJ/study-buddy-doc)
 
-## [Front-end Github Repository link](https://github.com/GUNDAANUTEJ/studybuddyfrontend)
 
-## [Heroku deployment link](https://study-buddy-frontend.herokuapp.com/)
-
-## [Back-end Heroku deployment link](https://study-buddy-bckend.herokuapp.com/)
-
-## [Proposal](https://github.com/Maruthi158/691-01-F21-DevRFP-Group5/blob/main/Proposal.md)
-
-## [RFP](https://github.com/Maruthi158/691-01-F21-RFP-Group2/blob/main/rfp-study.md)
 
 ## how to run tests
 
