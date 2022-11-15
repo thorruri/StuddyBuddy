@@ -1,0 +1,35 @@
+[{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Denise Case",
+    "subject":"Project Management"
+},
+{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Chirag A Patel",
+    "subject":"Web Applications"
+},
+{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Shailesh J Molia",
+    "subject":"Android"
+},
+{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Dhaval J Varia",
+    "subject":"IOS"
+},
+{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Chetna G Chand",
+    "subject":"Data Visualization"
+},
+{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Nikunj c Gamit",
+    "subject":"GDP"
+},
+{
+    "img":"https://picsum.photos/200",
+    "prof":"Dr Vibha D Patel",
+    "subject":"Application Design Patterns"
+}]
